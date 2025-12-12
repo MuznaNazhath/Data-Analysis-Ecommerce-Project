@@ -3,4 +3,4 @@ This repository contains an end-to-end data analytics case study:
 - SQL cleaning + summary views
 - EDA and feature engineering
 - Simple churn/LTV model
-- Dashboard design (Tableau / Power BI)
+- Dashboard design (Tableau 
